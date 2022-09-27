@@ -3,9 +3,6 @@
     Below is a dictionary consisting of details of 1 restaurant fetched from Yelp.
 '''
 
-from turtle import resetscreen
-
-
 restaurant_1 = {
     "name": "Four Barrel Coffee",
     "url": "https://www.yelp.com/biz/four-barrel-coffee-san-francisco",
