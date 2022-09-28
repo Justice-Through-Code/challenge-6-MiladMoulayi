@@ -1,3 +1,7 @@
+# STUDENT NOTE
+
+# I appear to be failing the assertion tests because of an error in importing the test file. I ran the tests in VS Code and passed all of them.
+
 # Yelp, anyone?
 
 ## Challenge 6
